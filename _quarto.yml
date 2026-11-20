@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Zulfiqure Ali"
+  site-url: "https://zulfiqure.github.io"
+  description: "Zulfiqure Ali — Joint Director, Bangladesh Bank. Research in banking, finance, labor and development economics."
+  favicon: images/profile.jpg
+  open-graph: true
+  twitter-card: true
+  page-navigation: false
+  navbar:
+    background: light
+    left:
+      - text: "About"
+        href: "#about"
+      - text: "Publications"
+        href: "#publications"
+      - text: "Experience"
+        href: "#experience"
+      - text: "Education"
+        href: "#education"
+      - text: "Teaching"
+        href: "#teaching"
+      - text: "Contact"
+        href: "#contact"
+  page-footer:
+    center: "© 2026 Zulfiqure Ali · Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles/light.scss]
+      dark: [cosmo, styles/dark.scss]
+    css: styles/site.css
+    toc: false
+    page-layout: article
+    smooth-scroll: true
+    anchor-sections: false

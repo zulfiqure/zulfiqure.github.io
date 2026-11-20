@@ -1,0 +1,26 @@
+/*-- scss:defaults --*/
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap');
+
+$body-bg: #11171d;
+$body-color: #e6e2d9;
+$primary: #6cc3b6;
+$link-color: #6cc3b6;
+$navbar-bg: #11171d;
+$navbar-fg: #e6e2d9;
+$navbar-hl: #6cc3b6;
+$footer-bg: #11171d;
+$font-family-sans-serif: "Inter", system-ui, sans-serif;
+$headings-font-family: "Newsreader", Georgia, serif;
+$font-family-monospace: "JetBrains Mono", monospace;
+$font-size-root: 17px;
+
+/*-- scss:rules --*/
+:root {
+  --z-ink: #e6e2d9;
+  --z-soft: #a3acb6;
+  --z-rule: #2b343d;
+  --z-card: #171f27;
+  --z-accent: #6cc3b6;
+  --z-accent-bg: #1b3431;
+  --z-gold: #d3b26a;
+}
