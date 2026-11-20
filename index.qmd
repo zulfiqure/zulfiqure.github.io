@@ -1,7 +1,7 @@
 ---
 title: "Zulfiqure Ali"
 pagetitle: "Zulfiqure Ali — Banking, Finance & Economics"
-description: "Joint Director at Bangladesh Bank. MA in Economics, University of Hawaiʻi at Mānoa. Research in banking, finance, labor and development economics."
+description: "Joint Director at Bangladesh Bank. MA in Economics, University of Hawaiʻi at Mānoa. Research on monetary transmission, banking and labour markets in emerging economies."
 image: images/profile.jpg
 ---
 
@@ -19,6 +19,7 @@ image: images/profile.jpg
   <div class="who">
     <div class="kicker">Central banking · Economics · Finance</div>
     <h1>Zulfiqure Ali</h1>
+    <p class="tagline" style="font-style:italic;margin:0.2rem 0 0.8rem;">I study how monetary policy and bank regulation transmit through banking systems in emerging economies.</p>
     <p class="role"><strong>Joint Director, Bangladesh Bank</strong><br>
     MA in Economics, University of Hawaiʻi at Mānoa · East-West Center Fellow<br>
     Chattogram, Bangladesh</p>
@@ -37,11 +38,19 @@ image: images/profile.jpg
 
 I am a Joint Director at **Bangladesh Bank**, the central bank of Bangladesh. Since 2019 I have worked across monetary and foreign exchange policy, on-site bank supervision, risk-based supervision, Basel III implementation and treasury operations. Before joining the central bank, I spent three years in commercial banking as a credit analyst, relationship manager and branch operations manager.
 
-I hold an **MA in Economics from the University of Hawaiʻi at Mānoa**, where I was an East-West Center Graduate Degree Fellow and a graduate teaching assistant. My research brings together policy experience and empirical methods, with a focus on how banks, financial markets and labour markets respond to policy and technology.
+I hold an **MA in Economics from the University of Hawaiʻi at Mānoa**, where I was an East-West Center Graduate Degree Fellow and a graduate teaching assistant. My research brings together policy experience and empirical methods to ask how policy and technology shape banks and labour markets in emerging economies.
 
 ::: {.chips}
 [Labor Economics]{} [Development Economics]{} [Public Policy]{} [Banking]{} [Finance]{}
 :::
+
+## Research interests {#research}
+
+My research asks how policy and technology shape banks and labour markets in emerging economies.
+
+- **Monetary transmission in bank-dominated economies:** how policy rates reach lending and deposit rates when interest rates are controlled or administered.
+- **Global shocks and bank behaviour:** how emerging-market banks respond to global monetary tightening, exchange-rate pressure and capital-flow reversals.
+- **Technology, finance and work:** how digital finance and AI change banking, financial inclusion and the demand for skills.
 
 ## Publications {#publications}
 
@@ -53,6 +62,16 @@ I hold an **MA in Economics from the University of Hawaiʻi at Mānoa**, where I
 [DOI: 10.5430/ijfr.v12n2p62](https://doi.org/10.5430/ijfr.v12n2p62) · [Google Scholar](https://scholar.google.com/citations?user=jbrH2Y4AAAAJ)
 :::
 
+## Completed research {#completed-research}
+
+::: {.pub}
+[The Paradox of Progress: Decomposing the Evolution of the Black–White Wage Gap, 1989–2010]{.ptitle}
+
+[MA capstone, Department of Economics, University of Hawaiʻi at Mānoa, 2026]{.meta}
+
+Using harmonized NLSY79 and NLSY97 data on men aged 26–30 and an Oaxaca–Blinder decomposition, I show that the racial log-wage gap widened from 0.199 to 0.238 between 1989 and 2010. Black men's relative gains in education were more than offset by growth in the unexplained component.
+:::
+
 ## Experience {#experience}
 
 ::: {.entry}
@@ -61,9 +80,11 @@ I hold an **MA in Economics from the University of Hawaiʻi at Mānoa**, where I
 ::: {.what}
 [Bangladesh Bank]{.title} · [Central bank of Bangladesh]{.org}
 
-- **Joint Director** (2026 – present): on-site inspection of commercial bank branches.
-- **Deputy Director** (2022 – 2026): contributed to the Monetary Policy Statement, policy and bank rate setting, and foreign exchange policy for scheduled banks and their offshore banking units.
-- **Assistant Director** (2019 – 2022): onsite supervision team leader; information system audit; risk-based supervision; Basel III implementation; treasury dealer for open market operations; evaluation of financial-inclusion programmes; COVID-19 stimulus disbursement.
+Joint Director (2026 – present) · Deputy Director (2022 – 2026) · Assistant Director (2019 – 2022)
+
+Seven years inside a central bank have given me the institutional knowledge and data experience that motivate my research. I contributed to the Monetary Policy Statement and to policy-rate and bank-rate decisions, helped formulate foreign exchange regulation for banks and their offshore units, traded in open-market operations, and worked on risk-based supervision, Basel III implementation and information-system audit. I now lead on-site inspections of commercial bank branches. This work has given me first-hand knowledge of how policy reaches banks and borrowers in an emerging economy, and of the data central banks use to monitor it.
+
+Since completing my MA in May 2026, I have combined this role with independent research and quantitative training.
 :::
 :::
 
@@ -71,19 +92,10 @@ I hold an **MA in Economics from the University of Hawaiʻi at Mānoa**, where I
 [2025]{.when}
 
 ::: {.what}
-[Hawaiʻi Department of Transportation]{.title} · [Planning intern]{.org}
+[Other experience]{.title} · [Hawaiʻi]{.org}
 
-Pedestrian and bicycle infrastructure, traffic safety and climate policy analysis.
-:::
-:::
-
-::: {.entry}
-[2025]{.when}
-
-::: {.what}
-[Food Vault Hawaiʻi]{.title} · [Fellow]{.org}
-
-Data collection and analysis on student food insecurity.
+- Planning intern, Hawaiʻi Department of Transportation: pedestrian and bicycle infrastructure, traffic safety and climate policy analysis.
+- Fellow, Food Vault Hawaiʻi: data collection and analysis on student food insecurity.
 :::
 :::
 
@@ -91,7 +103,7 @@ Data collection and analysis on student food insecurity.
 [2016 – 2019]{.when}
 
 ::: {.what}
-[First Security Islami Bank Ltd.]{.title} · [Senior Officer, Dhaka]{.org}
+[Private commercial bank]{.title} · [Senior Officer, Dhaka]{.org}
 
 Credit analyst, relationship manager and branch operations manager.
 :::
@@ -155,11 +167,11 @@ East-West Center Graduate Degree Fellow. Capstone in labor economics.
 :::
 
 ::: {.card-z}
-[Research tools]{.label}
+[Methods & tools]{.label}
 
-- R (tidyverse, Quarto)
-- Stata
-- Python, Excel
+- Applied and panel-data econometrics
+- Decomposition methods (Oaxaca–Blinder)
+- R, Stata, Python
 :::
 :::
 
